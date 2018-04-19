@@ -1,0 +1,5 @@
+package: github.com/nightfury1204/vault-postgresql-demo
+import:
+- package: github.com/hashicorp/vault
+  subpackages:
+  - api
